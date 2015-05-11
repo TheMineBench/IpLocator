@@ -1,0 +1,14 @@
+name: IpLocator
+version: 0.1
+main: me.theminebench.iplocator.IpLocator
+
+commands:
+   resetTimeZone:
+     description: Death by moose!
+     usage: /<command>
+   setTimeZone:
+     description: Death by moose!
+     usage: /<command>
+   myTime:
+     description: Death by moose!
+     usage: /<command>
